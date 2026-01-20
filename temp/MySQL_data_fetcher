@@ -137,6 +137,7 @@ public class MysqlTestJava07 {
         /**
          * Find maximum value in data to scale the plot.
          */
+         //
         private double getMax() {
             return Collections.max(data);
         }
